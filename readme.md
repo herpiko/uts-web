@@ -21,7 +21,7 @@ Demi kelancaran pengerjaan project UTS praktikum pemrograman web lanjut ini diha
 1. `Fork` repository `uts-web` ini.
 2. Pastikan project `uts-web` sudah berada di akun github masing-masing misal `fulan/uts-web`.
 3. Clone project `uts-web` ke komputer / laptop yang akan digunakan untuk mengerjakan UTS.
-4. Buka terminal, masuk kedalam direktori `uts-web`.
+4. Buka terminal, masuk ke dalam direktori `uts-web`.
 5. Jalankan `composer install` untuk mengunduh setiap dependency yang dibutuhkan Laravel.
 6. Buat database mysql dengan nama `uts_web`.
 7. Edit file `.env` (copy dari file `.env.example`)
@@ -40,26 +40,26 @@ Demi kelancaran pengerjaan project UTS praktikum pemrograman web lanjut ini diha
 
 Berikut ini adalah daftar tugas yang harus dikerjakan untuk UTS pemrograman web lanjut:
 
-1. Buat mekanisme penyimpanan inventaris barang. Pada saat data disubmit dari [formulir](http://localhost:8000/form) penambahan barang, data tersebut harus dimasukkan kedalam database.
+1. Buat mekanisme penyimpanan inventaris barang. Pada saat data disubmit dari [formulir](http://localhost:8000/form) penambahan barang, data tersebut harus dimasukkan ke dalam database.
 
     ![Inventory Form](http://s10.postimg.org/3moqehxc9/inventory_form.png)
 
-2. Tampilkan setiap data inventaris barang yang ada di dalam database kedalam bentuk tabel seperti yang dicontohkan pada halaman [daftar inventaris barang](http://localhost:8000).
+2. Tampilkan setiap data inventaris barang yang ada di dalam database ke dalam bentuk tabel seperti yang dicontohkan pada halaman [daftar inventaris barang](http://localhost:8000).
 
     ![Inventory List](http://s12.postimg.org/912kw6a3h/inventory_list.png)
 
-3. Tampilkan detail setiap inventaris barang pada saat link barang di klik. silahkan gunakan mekanisme `route parameter` seperti yang ada di [dokumentasi](https://laravel.com/docs/5.2/controllers#basic-controllers) Laravel.
+3. Tampilkan detail setiap inventaris barang pada saat link barang di klik. silakan gunakan mekanisme `route parameter` seperti yang ada di [dokumentasi](https://laravel.com/docs/5.2/controllers#basic-controllers) Laravel.
 
     ![Inventory Detail](http://s27.postimg.org/v29ppfbsj/inventory_detail.png)
 
 ## Mekanisme pengumpulan UTS
 
-Mekanisme pengumpulan dan penilaian akan dilakukan dari repository Github.com. Untuk melakukan pengumpulan UTS kali ini silahkan buka terminal, commit pekerjaan anda dengan menggunakan perintah `git add --all` kemudian `git commit -m "pengumpulan UTS"` dan `git push origin master`.
+Mekanisme pengumpulan dan penilaian akan dilakukan dari repository Github.com. Untuk melakukan pengumpulan UTS kali ini silakan buka terminal, commit pekerjaan anda dengan menggunakan perintah `git add --all` kemudian `git commit -m "pengumpulan UTS"` dan `git push origin master`.
 
 Catatan:
 
 1. Jangan lupa untuk mendaftarkan akun Github anda di [thread UTS ini](http://elen.nurulfikri.ac.id/mod/forum/discuss.php?d=12).
-2. Jika terdapat masalah dalam pengerjaan UTS, silahkan laporkan di [thread UTS ini](http://elen.nurulfikri.ac.id/mod/forum/discuss.php?d=13)
+2. Jika terdapat masalah dalam pengerjaan UTS, silakan laporkan di [thread UTS ini](http://elen.nurulfikri.ac.id/mod/forum/discuss.php?d=13)
 
 ## Submitted
 
